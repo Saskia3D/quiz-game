@@ -65,6 +65,7 @@ body {
     margin-bottom:25px;
 }
 .answer-btn {
+    color:black;
     background-color:#f8f0e5;
     border:2px solid #eadbc8;
     border-radius: 10px;
@@ -98,12 +99,12 @@ margin-top:20px;
 }
 .progress{
     height:100%;
-    background-color: e86a33;
+    background-color: #e86a33;
     width:0%;
     transition: width 0.3s ease;
 }
 #result-screen h1 {
-    background-color:f8f0e5;
+    background-color:#f8f0e5;
     border-radius:10px;
     padding:20px;
     margin-bottom:30px;
